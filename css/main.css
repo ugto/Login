@@ -1,7 +1,5 @@
-body{
+body {
     background: #ffe259;
-    background: linear-gradient(to rigth, #ffa751, #ffe259);    
+    background-image: linear-gradient(to right, #ffa751, #ffe259);
 }
-.bg{
 
-}
